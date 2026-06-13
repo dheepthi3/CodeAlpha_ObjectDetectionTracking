@@ -1,6 +1,6 @@
-# Object Detection and Tracking
+# Object Detection and Tracking using YOLOv8
 
-Real-time object detection using YOLOv8 and OpenCV.
+Real-time object detection and tracking using YOLOv8 and OpenCV.
 
 ## Technologies Used
 - Python
